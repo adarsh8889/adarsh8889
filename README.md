@@ -1,5 +1,5 @@
-<img src="![pixels-neon](https://github.com/himxnshutripathi/himxnshutripathi/assets/88422939/2544935a-9099-4715-bcd2-dfed5743662c)
-">
+[![MasterHead](![pixels-neon](https://github.com/adarsh8889/adarsh8889/assets/88422939/d507c0ce-0f35-4b73-98c0-e9c8d492376d)
+)]
 
 <h1 align="center">Hi 👋, I'm Adarsh Raman</h1>
 <h3 align="center">A passionate Data Science enthusiast with Python Developmental Skills.</h3>
